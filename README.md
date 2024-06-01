@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react, flutter**
 
-- 📫 How to reach me **adeeburrahman9021@gmail.com**
+- 📫 Reach me at **adeeburrahman9021@gmail.com**
 
 - 📄 Know about my experiences [https://adeeburrahman.vercel.app/images/AdeeburRahman_Resume.pdf](https://adeeburrahman.vercel.app/images/AdeeburRahman_Resume.pdf)
 
