@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/adeebur_rahman" target="blank"><img src="https://img.shields.io/twitter/follow/adeebur_rahman?logo=twitter&style=for-the-badge" alt="adeebur_rahman" /></a> </p>
 
+- 👨‍💻 Portfolio Link :- [https://adeeburrahman.vercel.app/](https://adeeburrahman.vercel.app/)
+
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://adeeburrahman.vercel.app/](https://adeeburrahman.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/adeeburrahman11](https://github.com/adeeburrahman11)
 
 - 💬 Ask me about **react, flutter**
 
