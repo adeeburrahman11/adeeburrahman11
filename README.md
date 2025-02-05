@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adeeburrahman9021@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/11OhBq9ixRom4O-1c2pTYaxbU8MTCfHGPU-YFo48b0zg/edit?usp=drive_link](https://adeeburrahman.vercel.app/images/AdeeburRahman_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/11OhBq9ixRom4O-1c2pTYaxbU8MTCfHGPU-YFo48b0zg/edit?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
